@@ -8,4 +8,4 @@ Required steps:
 ```sudo docker run -d --name k8s_jenkins -p 8080:8080 -p 50000:50000 -v /home/admin/jenkins_data:/var/jenkins_home k8s_jenkins```
 
 3. disable security:
-```open config.xml, Look for the <useSecurity>true</useSecurity> and change it to false, then restart jenkins.```
+open config.xml, Look for the ```<useSecurity>true</useSecurity>``` and change it to false, then restart jenkins.
