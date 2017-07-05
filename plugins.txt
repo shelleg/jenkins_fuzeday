@@ -1,0 +1,7 @@
+github
+github-api
+github-organization-folder
+github-oauth
+github-branch-source
+google-source-plugin
+google-oauth-plugin
